@@ -1,2 +1,3 @@
 # primary
-1st step git bash 
+1st step git bash
+octopus update 
